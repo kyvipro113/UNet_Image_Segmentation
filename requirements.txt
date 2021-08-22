@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+
+# base ---------------------------
+opencv-python
+opencv-contrib-python
+numpy
+scikit-learn
+skimage
+tensorflow-gpu==2.5.0
+keras
+matplotlib
