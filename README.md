@@ -7,3 +7,7 @@
 ## Note: If python gives error import no tf.keras module use the command
 ## pip install tensorflow --upgrade --force-reinstall --user
 ## Or pip install tensorflow --upgrade --force-reinstall
+
+# If your computer don't have gpu nVIDIA, you can use google colab
+## Link: https://colab.research.google.com/drive/1dfvTxsyDx5qWZb6xVOByT-HBNRhCws1Z?usp=sharing
+# Upload your data to google drive and mount to google colab
